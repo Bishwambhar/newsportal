@@ -1,2 +1,2 @@
 # newsportal
-A newsportal
+A newsportal project on the way.
